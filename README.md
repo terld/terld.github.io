@@ -11,6 +11,8 @@ terld is licesed under two (2) source code licenses. The first is the Mozilla Pu
 
 ### What's Terld?
 
+Although terld is still in the works, once it's done in the oven it will be a fully funtional search site specializing in saving you money.
+
 =====
 
 ### Source License
