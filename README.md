@@ -5,7 +5,7 @@ terld is hosted right here on github, so you know that we're always giving you t
 
 ===============
 
-terld is licesed under two (2) source code licenses. The first is the Mozilla Public License Version 2.0, which can be found in the LICENSE file in the root of this repo, the second is the Terld Custom License, which is located at the end of this file (README.md).
+terld is licesed under three (3) source code licenses. The first is the Mozilla Public License Version 2.0, which can be found in the LICENSE file in the root of this repo, the second is the Terld Custom License, which is located at the end of this file (README.md), and the third is the MIT License, which can also be found at the end of this file.
 
 ===============
 
@@ -27,7 +27,9 @@ if your experiencing a problem with terld, submit it to the [issues page](http:/
 
 =====
 
-### Source License
+## Source Licenses
+
+### Terld Custom License
 
 The resources from Terld can be used freely in personal and commercial projects if integrated and built upon. We expect that you link back to us or credit us if using our code. 
 
@@ -39,4 +41,24 @@ You are free to play with our code (responsibly, that is), but we put our heart 
 
 ##### Summarized, write about it, integrate it, make it your own, but don’t copy and paste our work and sell it or claim that it’s yours. 
 
+### MIT License
+
+Copyright (c) [2013] [Ben Fields]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 =====
