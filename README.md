@@ -21,7 +21,7 @@ Terld is right here on github, so all you have to do is fork it, change your for
 
 ===============
 
-### I've Found a Bug
+### Where Can I Report A Bug?
 
 if your experiencing a problem with terld, submit it to the [issues page](http://github.com/terld/terld.github.io/issues).
 
