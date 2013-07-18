@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-  <head>
+	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
@@ -11,7 +11,7 @@
 		<link rel="stylesheet" type="text/css" href="css/default.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
 		<script src="js/modernizr.custom.js"></script>
-		<script src="js/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="tipr/tipr.css">
 <script type="text/javascript" src="tipr/tipr.js"></script>
@@ -25,7 +25,7 @@
 				<div>
 					<p>You can apply for early access. Just fill out your info below.</p>
 					<!-- Begin MailChimp Signup Form -->
-<link href="css/input.css" rel="stylesheet" type="text/css">
+<link href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#e74c3c; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
@@ -34,7 +34,7 @@
 <div id="mc_embed_signup">
 <form action="http://terld.us7.list-manage.com/subscribe/post?u=4d28cfe88f69b08a95ff9a3cb&amp;id=153c5f3174" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	<h2></h2>
-<div class="indicates-required">* indicates required</div>
+<div class="indicates-required">*indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
@@ -72,7 +72,7 @@ var head= document.getElementsByTagName('head')[0];
 if (!jqueryLoaded) {
     var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'js/jquery.min.js';
+    script.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
     head.appendChild(script);
     if (script.readyState && script.onload!==null){
         script.onreadystatechange= function () {
@@ -82,7 +82,7 @@ if (!jqueryLoaded) {
 }
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = 'js/jquery.form-n-validate.js';
+script.src = 'http://downloads.mailchimp.com/js/jquery.form-n-validate.js';
 head.appendChild(script);
 var err_style = '';
 try{
@@ -124,7 +124,7 @@ function mce_init_form(){
       var options = { errorClass: 'mce_inline_error', errorElement: 'div', onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
       var mce_validator = $("#mc-embedded-subscribe-form").validate(options);
       $("#mc-embedded-subscribe-form").unbind('submit');//remove the validator so we can get into beforeSubmit on the ajaxform, which then calls the validator
-      options = { url: 'http://terld.us7.list-manage.com/subscribe/post?u=4d28cfe88f69b08a95ff9a3cb&amp;id=153c5f3174', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+      options = { url: 'http://terld.us7.list-manage.com/subscribe/post-json?u=4d28cfe88f69b08a95ff9a3cb&id=153c5f3174&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
                     beforeSubmit: function(){
                         $('#mce_tmp_error_msg').remove();
                         $('.datefield','#mc_embed_signup').each(
@@ -291,7 +291,7 @@ function mce_success_cb(resp){
 			<div class="main clearfix">
 				<div class="column">
 					<p>Plus it's open source, so that you can help us make terld even better in the future.</p>
-					<div align="right"><a href="https://github.com/Terld/terld.github.io" target="_blank"><button class="md-trigger">Go to Github</button></a></div>
+					<div align="right"><a href="http://github.com/benfields/terld" target="_blank"><button class="md-trigger">Go to Github</button></a></div>
 				</div>
 				<div class="column blank">
 				
