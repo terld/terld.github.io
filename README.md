@@ -43,7 +43,7 @@ You are free to play with our code (responsibly, that is), but we put our heart 
 
 ### MIT License
 
-Copyright (c) [2013] [Ben Fields]
+Copyright (c) 2013 Ben Fields
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
