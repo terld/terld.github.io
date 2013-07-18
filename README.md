@@ -13,6 +13,12 @@ terld is licesed under two (2) source code licenses. The first is the Mozilla Pu
 
 Although terld is still in the works, once it's done in the oven it will be a fully funtional search site specializing in saving you money.
 
+===============
+
+### How Can I Help?
+
+Terld is right here on github, so all you have to do is fork it, change your forked version, and submit a pull request comparing it to the original. Once you've done this, you can sit back and rest assured that we will take a look at your modifications.
+
 =====
 
 ### Source License
