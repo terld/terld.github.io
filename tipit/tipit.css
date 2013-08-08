@@ -45,7 +45,7 @@
 }
 .tipit_point_top:before 
 {
-	border-top-color: #dcdcdc;
+	border-top-color: #333333;
 	border-width: 9px;
 	left: 50%;
 	margin-left: -9px;
@@ -69,7 +69,7 @@
 }
 .tipit_point_bottom:before 
 {
-	border-bottom-color: #dcdcdc;
+	border-bottom-color: #333333;
 	border-width: 9px;
 	left: 50%;
 	margin-left: -9px;
