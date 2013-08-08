@@ -3,6 +3,9 @@ Terld.com (terld.github.io)
 
 terld is hosted right here on github, so you know that we're always giving you the latest and greatest to experiment with.
 
+
+you can find developer documentation [here](http://benfields.github.io/terld).
+
 ===============
 
 terld is licesed under three (3) source code licenses. The first is the Mozilla Public License Version 2.0, which can be found in the LICENSE file in the root of this repo, the second is the Terld Custom License, which is located at the end of this file (README.md), and the third is the MIT License, which can also be found at the end of this file.
