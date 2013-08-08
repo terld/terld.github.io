@@ -1,1 +1,1 @@
-Terld uses [tipit.js](http://benfields.github.io/tipit.js) to generate tooltips.
+Terld uses [tipit.js](http://github.com/benfields/tipit.js) to generate tooltips.
