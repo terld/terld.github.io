@@ -34,6 +34,10 @@ a:active {
 	color: #333;
 }
 
+.infolink {
+	display: none;
+}
+
 /* Header Style */
 .main,
 .container > header {
