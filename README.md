@@ -1,5 +1,5 @@
 Terld.com (terld.github.io)
-===============
+---
 
 terld is hosted right here on github, so you know that we're always giving you the latest and greatest to experiment with.
 
@@ -65,6 +65,4 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
----
 ---
