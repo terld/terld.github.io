@@ -32,9 +32,9 @@ if your experiencing a problem with terld, submit it to the [issues page](http:/
 
 ---
 
-## Source Licenses
+## Additional Source Licenses
 
-### Terld Custom License
+### Good Manners
 
 The resources from Terld can be used freely in personal and commercial projects if integrated and built upon. We expect that you link back to us or credit us if using our code. 
 
