@@ -32,7 +32,7 @@ if your experiencing a problem with terld, submit it to the [issues page](http:/
 
 ---
 
-## Additional Source Licenses
+## Additional Licenses
 
 ### Good Manners
 
