@@ -8,7 +8,9 @@ you can find developer documentation [here](http://benfields.github.io/terld/dev
 
 ---
 
-terld is licesed under three (3) source code licenses. The first is the Mozilla Public License Version 2.0, which can be found in the LICENSE file in the root of this repo, the second is the Terld Custom License, which is located at the end of this file (README.md), and the third is the MIT License, which can also be found at the end of this file.
+terld is licesed under the Mozilla Public License Version 2 (MPL) source code license. You can find this license in the license file in the root of this repo.
+
+_summarized:_ You must disclose the source of the code and must keep the license and copyright notice intact. You can modify it, distribute it, sublicense it, and use it commercially if not an exact fork. You cannot hold us liable or use our names, logos, or tradmarked information in your project.
 
 ---
 
