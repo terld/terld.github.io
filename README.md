@@ -1,8 +1,6 @@
 terld.com (terld.github.io)
 =========
 
-### terld is down right now
-
 terld is hosted right here on github, so you know that we're always giving you the latest and greatest to experiment with.
 
 
