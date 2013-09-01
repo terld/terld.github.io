@@ -6,7 +6,7 @@ terld.com (terld.github.io)
 terld is hosted right here on github, so you know that we're always giving you the latest and greatest to experiment with.
 
 
-you can find more developer documentation [here](http://benfields.github.io/terld/dev.html).
+you can find more developer documentation [here](http://terld.com/wiki/dev.html).
 
 ---
 
