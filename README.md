@@ -18,6 +18,12 @@ Although terld is still in the works, once it's done in the oven it will be a fu
 
 Terld is right here on github, so all you have to do is fork it, change your forked version, and submit a pull request comparing it to the original. Once you've done this, you can sit back and rest assured that we will take a look at your modifications.
 
+you can do this with Github's GUI, or do the nitty-gritty terminal work:
+
+```
+~ $ git clone https://github.com/terld/terld.github.io.git
+
+```
 ---
 
 ### Where Can I Report A Bug?
