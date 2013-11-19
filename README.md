@@ -26,4 +26,6 @@ if your experiencing a problem with terld, submit it to the [issues page](http:/
 
 ---
 
-Terld is licensed under the [GPL v3 ](http://choosealicense.com/licenses/gpl-v3/) license.
+### License
+
+This software is licensed under the [GPL v3 ](http://choosealicense.com/licenses/gpl-v3/) license.
