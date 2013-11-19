@@ -22,7 +22,6 @@ you can do this with Github's GUI, or do the nitty-gritty terminal work:
 
 ```
 ~ $ git clone https://github.com/terld/terld.github.io.git
-
 ```
 ---
 
